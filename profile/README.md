@@ -21,5 +21,3 @@ A collection of batch scripts to help process multiple files in BESA Research.
 - For product questions or support, visit the [BESA Support page](https://www.besa.de/support/support-page/).
 
 If you have a question about one of the public repositories, check its README for the best way to get in touch.
-
-Thanks for stopping by—we hope you find something useful!
